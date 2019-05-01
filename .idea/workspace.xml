@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6a4d2a8-01a8-4b0f-a961-93dbd6e832fc" name="Default Changelist" comment="" />
+    <list default="true" id="d6a4d2a8-01a8-4b0f-a961-93dbd6e832fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +278,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556726649276</updated>
-      <workItem from="1556726651788" duration="6423000" />
+      <workItem from="1556726651788" duration="6516000" />
     </task>
     <servers />
   </component>
@@ -296,9 +298,12 @@
     <history-entry file="edu_ucsd_cs110_tests_in_Lab5CSE110 - 2019.05.01 at 10h 49m 19s.xml">
       <configuration name="edu.ucsd.cs110.tests in Lab5CSE110" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="edu_ucsd_cs110_tests_in_Lab5CSE110 - 2019.05.01 at 11h 56m 44s.xml">
+      <configuration name="edu.ucsd.cs110.tests in Lab5CSE110" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6423000" />
+    <option name="totallyTimeSpent" value="6516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
